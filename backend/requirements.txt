@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+httpx
+Pillow
+python-multipart
+google-generativeai
+python-dotenv
